@@ -1,0 +1,24 @@
+States used in iterative dp: 2 and in recursive dp: 1
+States used in iterative dp: 8 and in recursive dp: 3
+States used in iterative dp: 24 and in recursive dp: 7
+States used in iterative dp: 64 and in recursive dp: 15
+States used in iterative dp: 160 and in recursive dp: 31
+States used in iterative dp: 384 and in recursive dp: 63
+States used in iterative dp: 896 and in recursive dp: 127
+States used in iterative dp: 2048 and in recursive dp: 255
+States used in iterative dp: 4608 and in recursive dp: 511
+States used in iterative dp: 10240 and in recursive dp: 1023
+
+
+All Test Cases Passed! Printing Runtimes:
+ T_Brute force | T_iterative_dp | T_recursive_dp
+0.000667 0.00275 0.001416
+0.000625 0.002292 0.001833
+0.001166 0.003209 0.0035
+0.002834 0.004625 0.005666
+0.011417 0.008458 0.010542
+0.065083 0.017625 0.021375
+0.429 0.034834 0.042875
+3.30646 0.066667 0.08325
+27.2851 0.1415 0.186708
+270.384 0.302334 0.39625
